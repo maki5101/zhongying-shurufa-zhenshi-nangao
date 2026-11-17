@@ -1,0 +1,9 @@
+[Addon]
+Name=rimeindicator
+Comment=Flash whether Rime is in Chinese or Latin mode next to the cursor on focus / click / cursor keys
+Category=Module
+Library=rimeindicator
+Type=SharedLibrary
+OnDemand=False
+Configurable=False
+Version=0.3.1

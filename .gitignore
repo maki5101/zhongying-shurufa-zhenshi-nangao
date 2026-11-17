@@ -1,0 +1,7 @@
+build/
+build-deb/
+
+# 本机私人笔记、私人扫描规则（tools/privacy_scan.py 读）
+.private/
+dist/
+CLAUDE.md
